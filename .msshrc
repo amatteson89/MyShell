@@ -1,0 +1,7 @@
+PATH=$PATH:.:/data/myprogs
+
+alias ll= ls -l
+alias wowzor = df -h
+alias paw = ps aux
+
+historycount=10
